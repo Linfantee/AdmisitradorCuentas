@@ -8,20 +8,20 @@ namespace AdministradorCuentas.Servicios
 {
     /// <summary>
     /// Interfaz con la relación de métodos de función del menú
-    /// 270923 - lig
+    /// 031023 - lig
     /// </summary>
     internal interface MenuInterfaz
     {
         /// <summary>
         /// Método que muestra el menú y recoge la selección del usuario
-        /// 270923 - lig
+        /// 031023 - lig
         /// Método que muestra el mensaje de bienvenida a la aplicación
         /// </summary>
 
         public void mostrarMensajeBienvenida();
         ///<summary>
         ///Método que muestra el mensaje
-        ///270923 - lig
+        ///031023 - lig
         /// </summary>
         /// <returns></returns>
 

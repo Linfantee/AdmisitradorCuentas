@@ -9,7 +9,7 @@ namespace AdministradorCuentas.Controladores
     {
         /// <summary>
         /// Método de entrada de la aplicación
-        /// 250923 - lig
+        /// 031023 - lig
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
